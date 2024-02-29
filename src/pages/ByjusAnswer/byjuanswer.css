@@ -1,0 +1,82 @@
+.mainbyjusbanner{
+    
+display: flex;
+justify-content: center;
+/* background-color: red; */
+}
+.ansbanner{
+    padding: 30px;
+}
+
+.imgcontainerans{
+    width: 950px;
+}
+.inputanstwo{
+ margin-top: 30px;
+}
+.imgthreeans{
+    height: 200px;
+    border-radius: 5px;
+    padding: 20px;
+    background:linear-gradient(white 49%, violet);
+    margin-bottom: 140px;
+    margin-top: 100px;
+}
+
+.borderapply{
+    border: 1px solid black;
+    width: 550px;
+    border-radius: 20px;
+    height: 45px;
+    
+}
+.iconbyjuanssec{
+    margin-left: 20px;
+  
+    font-size: 20px;
+}
+
+.inputanspanel{
+    border: none;
+    outline: none;
+}
+.inputanspanel{
+    width: 90%;
+    margin-top: 10px;
+}
+.iconans{
+
+    /* background-color: rgba(204, 198, 209, 0.728); */
+
+    
+     font-size: 23px;
+
+
+
+}
+
+.sectionansthree{
+    display: flex;
+    margin-top: 100px;
+    gap: 40px;
+     justify-content: center;
+}
+.spaceicon{
+    margin: 20px;
+    font-size: 30px;
+}
+
+.cardthreeimg{
+    display: flex;
+    justify-content: center;
+    gap: 320px;
+    align-items: center;
+}
+.cardthreeanother{
+    display: flex;
+    justify-content: center;
+}
+
+.imgansthrees{
+    width: 100px;
+}

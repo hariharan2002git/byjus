@@ -1,0 +1,48 @@
+.bg{
+    border: 1px solid black;
+}
+.prideofcompany{
+    height: 300px;
+}
+.cardsixcontent{
+    padding: 35px;
+    background-color: rgba(223, 215, 215, 0.637);
+border-radius: 10px;
+}
+.cardsixm{
+    display:grid;
+    justify-content: center;
+grid-template-columns: repeat(4,340px);
+align-items: center;
+gap: 20px;
+}
+.sixfontshead{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.cardsiximg{
+    height: 270px;
+    border-radius: 10px;
+    width: 270px;
+    /* margin-left: 5px; */
+}
+
+.sixcon{
+    color: purple;
+    margin-top: 10px;
+    
+}
+.underlinesix{
+    border-bottom: 2px solid purple;
+    width: 140px;
+}
+.underlinesix a{
+    text-decoration: none;
+    color: purple;
+}
+.textsmall{
+    font-size: 19px;
+    /* margin-bottom: 5px; */
+    line-height: 10px;
+    font-weight: 740;
+}

@@ -1,0 +1,127 @@
+
+  
+  
+  .searchoption{
+    /* background-color: red; */
+    margin: 0 200px;
+    
+
+  }
+  .radiobtn{
+    display: flex;
+    justify-content: end;
+    padding: 20px;
+    gap: 10px
+    ;
+    font-size: 23px;
+    font-weight: 500;
+    /* background-color: b; */
+  }
+  .searchfilterss{
+    /* display: flex; */
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 20px;
+
+  }
+select{
+    height: 50px;
+    margin-top: 20px;
+    padding: 10px;
+    border: none
+    ;
+    outline: none;
+    border-radius: 10px;
+}
+.inputsearchfunc
+{
+    padding: 5px 40px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+
+
+   
+    outline: none;
+}
+  .gridsearch{
+    display: grid;
+    grid-template-columns: repeat(3,200px);
+    gap: 40px 330px;
+  }
+  .bageelements{
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+
+    
+
+    
+  }
+  .fontli{
+    font-size: 35px;
+    font-weight: 600;
+  }
+  li{
+    list-style: none;
+  }
+  .fontp{
+    font-size: 28px;
+    margin-left: 80px;
+  }
+  .singleprobadge{
+    padding: 6px;
+    margin-left: 10px;
+    background-color: green;
+    color: white;
+    height: 40px;
+    text-align: center;
+    
+  
+    border-radius: 10px;
+  }
+
+  .singleprocard{
+    background-color: rgba(218, 215, 215, 0.756);
+    width: 340px;
+    height: 450px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+  }
+  .strike{
+    color: rgb(155, 145, 145);
+    margin-right: 10px;
+  }
+  .singleprocard img{
+    border-radius: 10px;
+  }
+
+  .filterstotal{
+    background-color: rgba(210, 208, 208, 0.671);
+    
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 30px;
+  }
+  .spanwarning{
+ display: grid;
+ place-items: center;
+  }
+  .noresult{
+    font-size: 30px;
+    color: red;
+  }
+
+  .mainpro{
+    margin-bottom: 100px;
+  }

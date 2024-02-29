@@ -1,0 +1,356 @@
+.scholarshipnav{
+    display: flex;
+  justify-content: center;
+  margin: 0px 90px;
+
+}
+
+.bc{
+    background: linear-gradient(45deg,#a16aff,#ac6aff);
+    height: 80vh;
+    
+}
+
+.scholarform{
+    margin-left: 500px;
+}
+.scholarnavbar{
+    display: flex;
+     justify-content: space-between;
+     align-items: end;
+     height: 110px;
+     margin: 0px 213px;
+     margin-bottom: 170px;
+     
+    
+}
+
+.scholarregbtn{
+    background-color: #8c69ff;
+   border: none;
+   outline: none;
+   color: white;
+   padding: 15px 140px;
+   margin-top: 15px;
+   border-radius: 5px;
+}
+.mbottom{
+    margin-bottom: 20px;
+}
+.headtextsize{
+  font-size: 50px;
+  color: white;
+}
+
+.color{
+  color: white;
+}
+.navscholarbtn{
+    padding: 10px 30px;
+    border: none;
+    background-color: #ffffff9c;
+    border-radius: 10px;
+}
+.scholarform{
+    background-color: #fff
+    ;padding: 50px;
+    text-align: center;
+    border-radius:15px;
+}
+
+.labelnst{
+    display: flex;
+    padding: 5px;
+    border: 1px solid 
+    rgb(68, 68, 68);
+    font-size: 16px;
+    border-radius: 10px;
+}
+#lab{
+    border :none;
+    outline: none;
+    
+}
+
+.navlabel{
+ padding:5px;
+ margin-top: 5px;
+ /* border: 1px solid gray; */
+}
+
+.spanlabel{
+    /* background-color: rebeccapurple; */
+    /* border: 1px solid rgba(128, 128, 128, 0.658); */
+    background-color:rgba(128, 128, 128, 0.54);
+    padding: 5px;
+    border-radius: 4px;
+    
+    
+    
+    
+   
+}
+.headscholar{
+    margin-bottom: 30px;
+}
+
+.colorspan{
+    color:
+    rgb(140, 105, 255);
+}
+
+.scholarnavbtn{
+    background-color: #fff;
+    border: none;
+    padding: 13px 50px;
+    border-radius: 6px;
+    font-size: 23px;
+    color: 
+    rgb(127, 92, 244);
+    font-weight: 600;
+}
+
+
+.size17{
+    font-size: 17px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.iconscholar{
+    font-size: 29px;
+}
+
+.scholartext{
+    height: 450px;
+}
+.textalign{
+    text-align: center;
+}
+
+.scholarcard{
+    display: grid;
+    grid-template-columns: repeat(4,330px);
+    justify-content: center;
+
+    gap: 50px;
+    align-items: center;
+    height: 50vh;
+    /* background-color: red; */
+
+}
+
+.martext{
+    margin-top: 50px;
+}
+.cardtext{
+    font-size: 29px;
+    font-weight: 600;
+    margin-top: 40px;
+ }
+ .cardtext2{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 40px;
+
+    margin-top: 10px;
+ }
+
+
+.imgspan{
+  padding: 25px 14px;
+  border-radius: 5px;
+  background-color:
+  rgba(137, 142, 147, 0.217);
+}
+
+
+.scholartext{
+    height: 600px;
+}
+
+
+.sectionscholars{
+    height: 600px;
+    background-color:#f1edff;
+    display: flex;
+gap: 50px;
+justify-content: center;
+align-items: center;
+
+}
+.txtnav{
+    background-color:#f1edff;
+text-align: center;
+height: 0;
+padding: 30px;
+margin-top: 20px;
+}
+
+.advcards{
+ background-color: #fff;
+border-radius: 15px;
+
+ padding: 50px;
+}
+
+.btncard{
+    padding: 20px 63px;
+border-radius: 10px;
+
+color: white;
+    background-color:#8c69ff;
+    border: none;
+margin-top: 15px;
+font-size: 20px;
+}
+
+.subcontent{
+    background-color:#f6f6f6;
+    padding: 4px 19px;
+    color:#010101;
+    font-weight: 400;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.mainBts{
+    height: 700px;
+ padding: 40px;
+ text-align: center;
+ font-size: 21px;
+ color: black;
+ font-weight: 700;
+}
+
+.graycontent{
+    background-color:#e4e5ea;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+    height: 300px;
+    gap: 50px;
+    padding: 100px;
+    margin-top: 50px;
+}
+
+.line {
+    margin-top: 20px;
+    width: 10%;
+    height: 180px;
+    background: linear-gradient(90deg, transparent 49.5%, gray 49.5%, gray 50.5%, transparent 30.5%);
+}
+.contentbts{
+
+    width: 100%;
+}
+
+.spantxtbts{
+    color: rgb(75, 75, 232);
+}
+
+.textimgbts{
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.btsimgicon{
+    text-align: center;
+    background-color:#e4e5ea ;
+    border-radius: 5px;
+}
+.btscontent{
+    margin-bottom: 70px;
+}
+.btstregister{
+    /* background-color: red; */
+    height: 400px;
+   
+}
+
+.iconsbts{
+    font-size: 50px;
+}
+
+.iconfor{
+    font-size: 30px;
+margin-top: 15px;
+}
+
+.btnbtslast{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    
+}
+
+.btsbtnend{
+    padding: 14px 50px ;
+    background-color: #8c69ff;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.sharebts{
+    margin-top: 100px;
+    text-align: center;
+    height: 320px;
+    padding: 50px;
+    background-color:#e4e5ea ;
+    border-radius: 5px;
+    margin: 0px 180px;
+}
+
+.iconshare{
+    background-color:#8c69ff ;
+    border-radius: 55%;
+   
+    /* padding: 10px; */
+    font-size: 45px;
+    padding: 15px;
+    
+    display: flex;
+    align-items: center;
+    /* margin-right: 20px; */
+    text-align: center;
+    /* margin-bottom: 100px; */
+}
+.shareicon{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    margin-top: 40px;
+    margin-bottom: 300px;
+    
+    gap: 30px;
+}
+
+.acc{
+    text-align: center;
+    margin: 0 240px;
+}
+
+.textalignstart{
+    text-align: start;
+}
+.expand{
+    padding: 20px;
+   margin-bottom: 20px;
+}
+.wrp{
+    margin-top: 100px;
+    padding: 100px;
+    background-color:#e4e5ea;
+}
+
+.gapdown{
+    margin-bottom: 50px;
+}

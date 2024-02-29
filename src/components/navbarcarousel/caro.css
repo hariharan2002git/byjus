@@ -1,0 +1,19 @@
+.bg {
+    border: 1px solid black;
+}
+.caroclosebtn{
+    all: unset;
+    position: absolute;
+    bottom:110px;
+    left: 1048px;
+color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 5px;
+    
+}
+.zindex{
+    z-index: 2;
+}
+
+
+ 

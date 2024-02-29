@@ -1,0 +1,37 @@
+.cardsevenmain{
+    display: grid;
+    grid-template-columns: repeat(3,500px);
+    gap: 30px;
+    justify-content: center;
+    margin: 100px 0;
+    text-align: center;
+}
+
+.cardseventextsmall{
+    font-size: 24px;
+    font-weight: 400;
+}
+.btnseven{
+display: flex;
+justify-content: center;
+
+
+}
+.btnseven button{
+    padding: 10px 50px;
+    background: linear-gradient(45deg,#5d71ff 50%,#8744ff );
+border-radius: 30px;
+border: none;
+    color: white;
+}
+
+.contentseven{
+    font-weight: 700;
+
+    font-size: 24px;
+
+}
+.cardsevenimg{
+    height: 200px;
+    width: 200px;
+}

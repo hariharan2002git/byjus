@@ -1,0 +1,64 @@
+
+    .main {
+        max-height: 365px;
+        border-radius: 20px;
+        background-color:whitesmoke;
+        box-shadow: 1px 0px 15px black;
+        width: 1300px;
+    }
+   .right{
+    font-size: 20px;
+   }
+    .horizontalline{
+       position: absolute;
+    width: 1px;
+    height: 130px;
+    top: 45%;
+    transform: translateY(-45%);
+    left: 119%;
+    color: #d9d9d9;
+    display: block;
+    box-shadow: #cac6c6 2px 0;
+   
+    }
+    .bannerOne{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+
+   /* align-items: center; */
+   
+    }
+    .cardBtn {
+        /* padding: 15px; */
+        width: 300px;
+        padding: 10px 0;
+        text-align: center;
+        background: linear-gradient(45deg,#ff8539,#ff5560);
+        border: none;
+        /* height: 40px; */
+    
+       
+color: white;
+font-weight: 600;
+border-radius: 10px;
+
+
+      
+
+    }
+    .cardBtnone{
+        padding: 5px 50px;
+        width: 200px;
+background: linear-gradient(45deg,#5d71ff 50%,#8744ff );
+border: none;
+border-bottom-left-radius: 17px;
+border-bottom-right-radius: 17px;
+color: white;
+font-weight: 600;
+    
+        
+    }
+    .bannerLinepos{
+        position: relative;
+    }

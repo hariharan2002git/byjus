@@ -1,0 +1,12 @@
+.backmain{
+    height: 900px;
+    width: 100%;
+    /* background-color: red; */
+    background-image: url("https://cdn1.byjus.com/byjusweb/img/home/svg/homebannerbg.svg");
+z-index: 12;
+}
+.formgroup{
+    display: flex;
+    justify-content: end;
+    align-items: start;
+}

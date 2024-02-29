@@ -1,0 +1,62 @@
+
+    .bg{
+        border: 2px solid black;
+    }
+    .thirdcard{
+        height: 500px;
+        
+    }
+    .leftcardthree{
+        height: 300px;
+    }
+    .whitecolor{
+        bottom: white !important;
+    }
+    .rightcardthree{
+        height: 300px;
+    }
+    .btnthreeone{
+        text-align: center;
+    }
+    .btnthreeone button{
+        text-align: center;
+    }
+    .btnthreetwo{
+        text-align: center;
+    }
+ 
+.contentsbththree p{
+    font-size: 17px;
+    font-weight: 400;
+}
+.btncolor{
+    background: linear-gradient(45deg,#ff8539,#ff5560);
+    border: none;
+    border-radius: 5px;
+   
+    padding:7px 40px;
+
+
+}
+.bc{
+
+        border-radius: 20px;
+        background-color:whitesmoke;
+        box-shadow: 1px 0px 15px black;
+       
+}
+
+.btn-blue{
+background: linear-gradient(45deg,#5d71ff 50%,#8744ff );
+border: none;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 16px;
+}
+.btns button{
+   padding:10px 50px;
+}
+.btns2 button{
+   padding:10px 90px;
+}
+
+

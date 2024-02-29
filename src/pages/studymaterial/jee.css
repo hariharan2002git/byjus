@@ -1,0 +1,49 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+header{
+    height: 200px;
+    background: #bbb;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.container{
+    width: 80%;
+    margin: 50px auto;
+    clear: both;
+}
+.container::before,.container::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.right{
+    width: 750px;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+}
+
+.right div{
+    background-color: #bbb;
+    height: 250px;
+}
+
+.right div+div{
+  margin-top: 50px;
+
+}
+
+.left{
+    width: 350px;
+    height: 1250px;
+    background:#bbb ;
+    display: inline-block;
+   float: left;
+    position: sticky;
+    top: 50px;
+}
+ */
