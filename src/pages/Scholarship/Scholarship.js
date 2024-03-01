@@ -59,8 +59,8 @@ const Scholarshipnav = () => {
             <h2 className="mbottom headscholar">Register now for FREE</h2>
             <div className="labelnst mbottom">
               <label htmlFor="lab" className="navlabel ">
-                {" "}
-                <span className="spanlabel">+91</span>{" "}
+                
+                <span className="spanlabel">+91</span>
                 <input
                   type="text"
                   id="lab"
@@ -68,10 +68,10 @@ const Scholarshipnav = () => {
                 ></input>
               </label>
             </div>
-            <button className="scholarregbtn mbottom">Register now</button>
+            <button className="scholarregbtn mbottom"><span className="textcorrection">Register now</span></button>
 
             <h4>
-              Already Registered? <span className="colorspan">Log in</span>{" "}
+              Already Registered? <span className="colorspan">Log in</span>
             </h4>
           </div>
         </div>

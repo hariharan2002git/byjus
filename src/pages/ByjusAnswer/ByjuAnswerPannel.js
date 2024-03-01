@@ -99,7 +99,7 @@ const Cardthreeans=()=>{
     
          </div>
            <div className="cardthreeanother">
-         <img src="https://search-static.byjusweb.com/assets/app-download-desktop.png?imwidth=828 1x, https://search-static.byjusweb.com/assets/app-download-desktop.png?imwidth=1920 2x" alt="" />
+         <img src="https://search-static.byjusweb.com/assets/app-download-desktop.png?imwidth=828 1x, https://search-static.byjusweb.com/assets/app-download-desktop.png?imwidth=1920 2x" alt="" className="byjuanswerimglast"/>
 
            </div>
         </>

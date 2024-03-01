@@ -3,14 +3,17 @@
         border: 2px solid black;
     }
     .thirdcard{
-        height: 500px;
+        height: 500px;margin-top: 200px;
         
     }
     .leftcardthree{
         height: 300px;
     }
     .whitecolor{
-        bottom: white !important;
+        bottom: white;
+    }
+    .colors{
+        background-color: #fff;
     }
     .rightcardthree{
         height: 300px;
@@ -42,7 +45,7 @@
 
         border-radius: 20px;
         background-color:whitesmoke;
-        box-shadow: 1px 0px 15px black;
+        box-shadow: 1px 0px 15px rgb(160, 160, 160);
        
 }
 

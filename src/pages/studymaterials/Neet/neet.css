@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 400px 200px;
     /* grid-template-rows: 50% 0%; */
-    gap: 30px 500px ;
+    gap: 30px 400px ;
     
     margin-left: 200px;
     margin-top: 50px;
@@ -25,13 +25,13 @@
     grid-area: side;
     background-color: rgb(232, 232, 226);
     height: auto;
-    width: 800px;
+    width: 700px;
     border-radius: 10px;
     padding: 40px;
    
 }
 .sidebar img{
-   width: 710px;
+   width: 610px;
 }
 .div1,.div2,.div3,.div4,.div5,.div6 {
     border-radius: 10px;
@@ -40,8 +40,8 @@
 .div1{
     grid-area: div1;
     background-color: rgb(232, 232, 226);
-    height: 190px;
-    width: 500px;
+    height: 130px;
+    width: 450px;
 
 
     
@@ -51,7 +51,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 20vh;
+    height: 17vh;
 
 }
 .div1content input{
@@ -107,6 +107,10 @@
 }
 .formcontentdiv{
     text-align: center;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 50px;
 }
 .formcontentdiv input{
     margin-top: 10px;
@@ -119,6 +123,9 @@
   
     
 } */
+.imgcontentneet img{
+    border-radius: 10px;
+}
 .div7{
     grid-area: div7;
     height: 500px;
@@ -128,7 +135,7 @@
 
 .boxneet{
     background-color: #ac6aff;
-    width: 710px;
+    width: 610px;
     color: white;
     padding: 5px;
     height: auto;

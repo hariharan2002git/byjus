@@ -16,7 +16,7 @@ const Cardone = () => {
                     <img src="https://cdn1.byjus.com/wp-content/uploads/2022/04/btla.png " alt=""></img>
                 </div>
                 <div class="right">
-                    <img src="https://cdn1.byjus.com/byjusweb/img/home/svg/byjus_learningapp_logo.svg" alt=""></img>
+                    <img src="https://cdn1.byjus.com/byjusweb/img/home/svg/byjus_learningapp_logo.svg" alt=""></img> <br />
                     <p>Personalised learning app
                         to learn anytime, anywhere</p>
                 </div>
@@ -36,7 +36,7 @@ const Cardone = () => {
                 <div class="right ">
 
                     <img src="https://cdn1.byjus.com/byjusweb/img/home/image/byjus_classes_2_line_logo.png" alt=""
-                        height="100px" width="210px"></img>
+                        height="100px" width="210px"></img> <br /> <br />
                     <p>Personalised online tutoring
                         program</p>
                 </div>

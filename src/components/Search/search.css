@@ -1,12 +1,7 @@
 
   
   
-  .searchoption{
-    /* background-color: red; */
-    margin: 0 200px;
-    
-
-  }
+ 
   .radiobtn{
     display: flex;
     justify-content: end;
@@ -16,6 +11,9 @@
     font-size: 23px;
     font-weight: 500;
     /* background-color: b; */
+  }
+  .filterstotal{
+  margin: 30px 100px;
   }
   .searchfilterss{
     /* display: flex; */
@@ -46,6 +44,7 @@ select{
    
     outline: none;
 }
+
   .gridsearch{
     display: grid;
     grid-template-columns: repeat(3,200px);

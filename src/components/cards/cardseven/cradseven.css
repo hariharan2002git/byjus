@@ -1,6 +1,6 @@
 .cardsevenmain{
     display: grid;
-    grid-template-columns: repeat(3,500px);
+    grid-template-columns: repeat(3,400px);
     gap: 30px;
     justify-content: center;
     margin: 100px 0;
@@ -14,6 +14,7 @@
 .btnseven{
 display: flex;
 justify-content: center;
+margin-bottom: 50px;
 
 
 }

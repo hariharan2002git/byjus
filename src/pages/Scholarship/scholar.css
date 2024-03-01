@@ -1,26 +1,27 @@
 .scholarshipnav{
     display: flex;
   justify-content: center;
-  margin: 0px 90px;
+margin: 0 200px;
 
 }
 
 .bc{
     background: linear-gradient(45deg,#a16aff,#ac6aff);
-    height: 80vh;
+
     
 }
 
 .scholarform{
-    margin-left: 500px;
+    margin-left: 160px;
+    margin-bottom: 100px;
 }
 .scholarnavbar{
     display: flex;
      justify-content: space-between;
-     align-items: end;
-     height: 110px;
-     margin: 0px 213px;
-     margin-bottom: 170px;
+     align-items: center;
+     height: 100px;
+     margin: 0px 153px;
+     margin-bottom:50px;
      
     
 }
@@ -29,17 +30,18 @@
     background-color: #8c69ff;
    border: none;
    outline: none;
-   color: white;
-   padding: 15px 140px;
-   margin-top: 15px;
-   border-radius: 5px;
+  padding: 10px 82px;
+  border-radius: 10px;
 }
 .mbottom{
     margin-bottom: 20px;
 }
 .headtextsize{
-  font-size: 50px;
+  font-size: 40px;
   color: white;
+}
+.textcorrection{
+    text-align: start;
 }
 
 .color{
@@ -123,7 +125,7 @@
 }
 
 .scholartext{
-    height: 450px;
+    height: 350px;
 }
 .textalign{
     text-align: center;
@@ -131,12 +133,12 @@
 
 .scholarcard{
     display: grid;
-    grid-template-columns: repeat(4,330px);
+    grid-template-columns: repeat(4,290px);
     justify-content: center;
-
+margin-top: 100px;
     gap: 50px;
     align-items: center;
-    height: 50vh;
+  
     /* background-color: red; */
 
 }
@@ -175,7 +177,7 @@
     height: 600px;
     background-color:#f1edff;
     display: flex;
-gap: 50px;
+gap: 30px;
 justify-content: center;
 align-items: center;
 
@@ -192,7 +194,7 @@ margin-top: 20px;
  background-color: #fff;
 border-radius: 15px;
 
- padding: 50px;
+ padding: 20px;
 }
 
 .btncard{
@@ -269,11 +271,12 @@ font-size: 20px;
 .btstregister{
     /* background-color: red; */
     height: 400px;
+    margin: 0px 100px;
    
 }
 
 .iconsbts{
-    font-size: 50px;
+    font-size: 4px;
 }
 
 .iconfor{

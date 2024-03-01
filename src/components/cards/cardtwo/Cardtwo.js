@@ -3,7 +3,7 @@ import '../cardtwo/cardtwo.css'
 const Cardtwo = () => {
   return (
     <>
-      <div class="container  thirdcard mt-4 " >
+      <div class="container colors  thirdcard " >
         <div class="row justify-content-evenly mt-5 whitecolor">
             <div class="col-5  leftcardthree bc  ">
                 <div class="btns d-flex justify-content-center ">

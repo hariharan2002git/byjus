@@ -5,6 +5,7 @@
         background-color:whitesmoke;
         box-shadow: 1px 0px 15px black;
         width: 1300px;
+        margin-bottom: 100px;
     }
     .horizontalline{
        position: absolute;

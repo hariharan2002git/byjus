@@ -75,8 +75,13 @@ justify-content: center;
 .cardthreeanother{
     display: flex;
     justify-content: center;
+
 }
 
 .imgansthrees{
     width: 100px;
+}
+
+.byjuanswerimglast{
+    width: 70%;
 }
