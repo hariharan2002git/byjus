@@ -29,7 +29,7 @@ function App() {
 <Messagebox/>
 <Navbar/>
 <Routes>
-  <Route path="/" element={<Header/>}> </Route>
+  <Route path="byjus/" element={<Header/>}> </Route>
   <Route path="/scholarship" element={<Scholarship/>}></Route>
   <Route path="/answerpannel" element={<ByjuAnswerPannel/>}> </Route>
   <Route path="/neetinfo" element={<Neet/>}> </Route>
