@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '../navbar/Navbar'
+
 import Back from '../backgroundimghome/back'
 import Content from '../cards/topcontent/Content'
 import Cardone from '../cards/cardone/cardone'
@@ -9,7 +9,7 @@ import Cardfour from '../cards/cardfour/Cardfour'
 import Cardfive from '../cards/cardfive/Cardfive'
 import Cardsix from '../cards/cardsix/Cardsix'
 import Cardseven from '../cards/cardseven/Cardseven'
-import Messagebox from '../msgbox/Messagebox'
+
 const Header = () => {
   return (
     <>

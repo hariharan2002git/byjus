@@ -27,9 +27,7 @@ function App() {
    
 <BrowserRouter>
 <Messagebox/>
-
 <Navbar/>
-
 <Routes>
   <Route path="/" element={<Header/>}> </Route>
   <Route path="/scholarship" element={<Scholarship/>}></Route>
@@ -41,7 +39,6 @@ function App() {
   <Route path="/classes" element={<Neet/>}> </Route>
   <Route path="/btc" element={<Neet/>}> </Route>
   <Route path="/filter" element={<Search/>}> </Route>
-
 </Routes>
 <Footer/>
 </BrowserRouter>
