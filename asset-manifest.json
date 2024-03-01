@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/byjus/static/css/main.bbd83766.css",
+    "main.js": "/byjus/static/js/main.1713b2e8.js",
+    "static/js/453.9c2705d5.chunk.js": "/byjus/static/js/453.9c2705d5.chunk.js",
+    "static/media/logo.svg": "/byjus/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/byjus/index.html",
+    "main.bbd83766.css.map": "/byjus/static/css/main.bbd83766.css.map",
+    "main.1713b2e8.js.map": "/byjus/static/js/main.1713b2e8.js.map",
+    "453.9c2705d5.chunk.js.map": "/byjus/static/js/453.9c2705d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd83766.css",
+    "static/js/main.1713b2e8.js"
+  ]
+}
