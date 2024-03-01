@@ -9,7 +9,7 @@ const Navbar = () => {
       
 <nav className="navbarmegamenu">
    
-     <Link to={'/'}>  <img src="https://cdn1.byjus.com/byjusweb/img/home/svg/byjus_logo.svg" alt="" className='navbarimg'></img></Link> 
+     <Link to={'byjus/'}>  <img src="https://cdn1.byjus.com/byjusweb/img/home/svg/byjus_logo.svg" alt="" className='navbarimg'></img></Link> 
 
   <ul>
     <li className='navtext'><a href="#">Study material<FaChevronCircleDown className='iconleft'/></a>
